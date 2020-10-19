@@ -1,2 +1,2 @@
-# StuCafeInfoFo
-# stifsd
+# 백준 C 풀이
+
